@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Portfolio
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
@@ -56,7 +56,7 @@ permalink: /blog/:title
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+    permalink: /projects/:title
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
